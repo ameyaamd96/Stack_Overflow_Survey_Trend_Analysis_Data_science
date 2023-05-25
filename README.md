@@ -35,6 +35,8 @@ For Running the file in Google Colab,
 
 Upload all the data files in your Google Drive and edit the import datapath to match the one on your google drive. You will have to one-time sign into Google Drive when mounting the drive.
 
+Medium Article: https://medium.com/@ameyaamd96/analyzing-the-leverage-of-software-development-in-the-modern-world-economy-46953835039f
+
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Authors: Ameya Deshpande
